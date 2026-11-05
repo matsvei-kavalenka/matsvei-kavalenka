@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="64" viewBox="0 0 840 64" role="img" aria-label="A tennis ball bouncing on a line">
+  <line x1="300" y1="54" x2="540" y2="54" stroke="#8DA2BC" stroke-opacity=".45" stroke-width="2"/>
+  <ellipse cx="420" cy="55" rx="7" ry="2.2" fill="#8DA2BC" opacity=".5">
+    <animate attributeName="rx" values="8;3;8" keyTimes="0;.5;1" dur="1.4s" repeatCount="indefinite" calcMode="spline" keySplines=".5 0 .5 1;.5 0 .5 1"/>
+  </ellipse>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="420 46;420 12;420 46" keyTimes="0;.5;1" dur="1.4s" repeatCount="indefinite" calcMode="spline" keySplines=".2 .6 .4 1;.6 0 .8 .4"/>
+    <circle r="7" fill="#DFFF4F" stroke="#A8C21F" stroke-width="1"/>
+    <path d="M-5 -4 Q0 0 -5 4 M5 -4 Q0 0 5 4" fill="none" stroke="#ffffff" stroke-opacity=".85" stroke-width="1.1"/>
+  </g>
+</svg>

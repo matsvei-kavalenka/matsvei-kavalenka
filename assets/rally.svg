@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="240" viewBox="0 0 840 240" role="img" aria-labelledby="title desc">
+  <title id="title">Retrieval, end to end</title>
+  <desc id="desc">A rally across a net, one stage per shot: ingest (OCR, multimodal docs), index (vector and graph stores), retrieve, rerank, generate answers with sources, evaluate with Langfuse and benchmarks.</desc>
+  <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,"Liberation Mono",monospace}
+  </style>
+  <rect width="840" height="240" rx="14" fill="#0D1B2E"/>
+  <rect x=".5" y=".5" width="839" height="239" rx="13.5" fill="none" stroke="#ffffff" stroke-opacity=".07"/>
+  <text x="24" y="30" class="mono" font-size="11.5" letter-spacing="2.5" fill="#6F86A3">RETRIEVAL, END TO END</text>
+
+  <!-- net -->
+  <line x1="28" y1="130" x2="812" y2="130" stroke="#ffffff" stroke-opacity=".08" stroke-width="10" stroke-dasharray="1 4"/>
+  <line x1="28" y1="130" x2="812" y2="130" stroke="#E8EEF6" stroke-opacity=".45" stroke-width="2"/>
+  <circle cx="28" cy="130" r="3" fill="#E8EEF6" fill-opacity=".6"/>
+  <circle cx="812" cy="130" r="3" fill="#E8EEF6" fill-opacity=".6"/>
+
+  <!-- rally path -->
+  <path d="M90 96 C156 96 156 164 222 164 C288 164 288 96 354 96 C420 96 420 164 486 164 C552 164 552 96 618 96 C684 96 684 164 750 164" fill="none" stroke="#DFFF4F" stroke-opacity=".35" stroke-width="2" stroke-linecap="round" stroke-dasharray="0.1 8"/>
+
+    <circle cx="90" cy="96" r="5" fill="none" stroke="#DFFF4F" stroke-width="2">
+      <animate attributeName="r" values="5;22;22" keyTimes="0;.1;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".9;0;0" keyTimes="0;.1;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90" cy="96" r="5" fill="#DFFF4F">
+      <animate attributeName="opacity" values="1;1;1;.35" keyTimes="0;.05;.85;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="222" cy="164" r="5" fill="none" stroke="#DFFF4F" stroke-width="2">
+      <animate attributeName="r" values="5;5;5;22;22" keyTimes="0;0.149;0.15;0.250;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.149;0.15;0.250;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="222" cy="164" r="5" fill="#DFFF4F">
+      <animate attributeName="opacity" values=".35;.35;1;1;.35" keyTimes="0;0.149;0.15;.85;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="354" cy="96" r="5" fill="none" stroke="#DFFF4F" stroke-width="2">
+      <animate attributeName="r" values="5;5;5;22;22" keyTimes="0;0.299;0.3;0.400;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.299;0.3;0.400;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="354" cy="96" r="5" fill="#DFFF4F">
+      <animate attributeName="opacity" values=".35;.35;1;1;.35" keyTimes="0;0.299;0.3;.85;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="486" cy="164" r="5" fill="none" stroke="#DFFF4F" stroke-width="2">
+      <animate attributeName="r" values="5;5;5;22;22" keyTimes="0;0.449;0.45;0.550;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.449;0.45;0.550;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="486" cy="164" r="5" fill="#DFFF4F">
+      <animate attributeName="opacity" values=".35;.35;1;1;.35" keyTimes="0;0.449;0.45;.85;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="618" cy="96" r="5" fill="none" stroke="#DFFF4F" stroke-width="2">
+      <animate attributeName="r" values="5;5;5;22;22" keyTimes="0;0.599;0.6;0.700;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.599;0.6;0.700;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="618" cy="96" r="5" fill="#DFFF4F">
+      <animate attributeName="opacity" values=".35;.35;1;1;.35" keyTimes="0;0.599;0.6;.85;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="750" cy="164" r="5" fill="none" stroke="#DFFF4F" stroke-width="2">
+      <animate attributeName="r" values="5;5;5;22;22" keyTimes="0;0.749;0.75;0.850;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.749;0.75;0.850;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="750" cy="164" r="5" fill="#DFFF4F">
+      <animate attributeName="opacity" values=".35;.35;1;1;.35" keyTimes="0;0.749;0.75;.85;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="90" y="62" text-anchor="middle" class="sans" font-size="15" font-weight="700" fill="#F3F6FA">ingest</text>
+    <text x="90" y="79" text-anchor="middle" class="mono" font-size="11.5" fill="#6F86A3">OCR · multimodal docs</text>
+    <text x="222" y="200" text-anchor="middle" class="sans" font-size="15" font-weight="700" fill="#F3F6FA">index</text>
+    <text x="222" y="217" text-anchor="middle" class="mono" font-size="11.5" fill="#6F86A3">vector + graph stores</text>
+    <text x="354" y="62" text-anchor="middle" class="sans" font-size="15" font-weight="700" fill="#F3F6FA">retrieve</text>
+    <text x="354" y="79" text-anchor="middle" class="mono" font-size="11.5" fill="#6F86A3">semantic · graph</text>
+    <text x="486" y="200" text-anchor="middle" class="sans" font-size="15" font-weight="700" fill="#F3F6FA">rerank</text>
+    <text x="486" y="217" text-anchor="middle" class="mono" font-size="11.5" fill="#6F86A3">relevance first</text>
+    <text x="618" y="62" text-anchor="middle" class="sans" font-size="15" font-weight="700" fill="#F3F6FA">generate</text>
+    <text x="618" y="79" text-anchor="middle" class="mono" font-size="11.5" fill="#6F86A3">answers with sources</text>
+    <text x="750" y="200" text-anchor="middle" class="sans" font-size="15" font-weight="700" fill="#F3F6FA">evaluate</text>
+    <text x="750" y="217" text-anchor="middle" class="mono" font-size="11.5" fill="#6F86A3">Langfuse · benchmarks</text>
+
+  <!-- ball -->
+  <g>
+    <animateMotion path="M90 96 C156 96 156 164 222 164 C288 164 288 96 354 96 C420 96 420 164 486 164 C552 164 552 96 618 96 C684 96 684 164 750 164" dur="8s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.75;1"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.85;1" dur="8s" repeatCount="indefinite"/>
+    <circle r="12" fill="#DFFF4F" opacity=".14"/>
+    <circle r="6.5" fill="#DFFF4F"/>
+    <path d="M-4.8 -3.9 Q0 0 -4.8 3.9 M4.8 -3.9 Q0 0 4.8 3.9" fill="none" stroke="#ffffff" stroke-opacity=".8" stroke-width="1.1"/>
+  </g>
+</svg>

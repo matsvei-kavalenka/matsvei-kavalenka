@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="264" viewBox="0 0 840 264" role="img" aria-labelledby="title desc">
+  <title id="title">Loadout</title>
+  <desc id="desc">Languages: Python, Java. Gen AI: RAG, GraphRAG, LangChain, Langfuse, TensorFlow. Data stores: Qdrant, Neo4j, FalkorDB, Redis, PostgreSQL, MongoDB. Cloud and ops: Azure, GCP, Databricks, Kubernetes, Docker, Terraform. Data engineering: Apache Spark, Kafka, Spark SQL, ETL/ELT.</desc>
+  <style>
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Menlo,Consolas,"Liberation Mono",monospace}
+    .pulse{animation:p 1.6s ease-in-out infinite}
+    @keyframes p{50%{opacity:.35}}
+    @media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+  </style>
+  <rect width="840" height="264" rx="14" fill="#0D1B2E"/>
+  <rect x=".5" y=".5" width="839" height="263" rx="13.5" fill="none" stroke="#ffffff" stroke-opacity=".07"/>
+  <text x="24" y="30" class="mono" font-size="11.5" letter-spacing="2.5" fill="#6F86A3">LOADOUT</text>
+  <rect x="24.0" y="48" width="148" height="196" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".07"/>
+  <rect x="36.0" y="60" width="22" height="22" rx="4" fill="none" stroke="#DFFF4F" stroke-opacity=".7"/>
+  <text x="47.0" y="75.5" text-anchor="middle" class="mono" font-size="12" font-weight="700" fill="#DFFF4F">1</text>
+  <text x="68.0" y="75.5" class="mono" font-size="11" letter-spacing="1.2" fill="#8DA2BC">LANGUAGES</text>
+  <line x1="36.0" y1="94" x2="160.0" y2="94" stroke="#ffffff" stroke-opacity=".07"/>
+  <rect x="30.0" y="102" width="136" height="23" rx="4" fill="#DFFF4F" fill-opacity=".1"/>
+  <rect x="30.0" y="102" width="3" height="23" fill="#DFFF4F"/>
+  <text x="40.0" y="118" class="sans" font-size="14" fill="#E8EEF6">Python</text>
+  <text x="40.0" y="141" class="sans" font-size="14" fill="#E8EEF6">Java</text>
+  <rect x="185.0" y="48" width="148" height="196" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".07"/>
+  <rect x="197.0" y="60" width="22" height="22" rx="4" fill="none" stroke="#DFFF4F" stroke-opacity=".7"/>
+  <text x="208.0" y="75.5" text-anchor="middle" class="mono" font-size="12" font-weight="700" fill="#DFFF4F">2</text>
+  <text x="229.0" y="75.5" class="mono" font-size="11" letter-spacing="1.2" fill="#8DA2BC">GEN AI</text>
+  <line x1="197.0" y1="94" x2="321.0" y2="94" stroke="#ffffff" stroke-opacity=".07"/>
+  <text x="201.0" y="118" class="sans" font-size="14" fill="#E8EEF6">RAG</text>
+  <text x="201.0" y="141" class="sans" font-size="14" fill="#E8EEF6">GraphRAG</text>
+  <text x="201.0" y="164" class="sans" font-size="14" fill="#E8EEF6">LangChain</text>
+  <text x="201.0" y="187" class="sans" font-size="14" fill="#E8EEF6">Langfuse</text>
+  <text x="201.0" y="210" class="sans" font-size="14" fill="#E8EEF6">TensorFlow</text>
+  <rect x="346.0" y="48" width="148" height="196" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".07"/>
+  <rect x="358.0" y="60" width="22" height="22" rx="4" fill="none" stroke="#DFFF4F" stroke-opacity=".7"/>
+  <text x="369.0" y="75.5" text-anchor="middle" class="mono" font-size="12" font-weight="700" fill="#DFFF4F">3</text>
+  <text x="390.0" y="75.5" class="mono" font-size="11" letter-spacing="1.2" fill="#8DA2BC">DATA STORES</text>
+  <line x1="358.0" y1="94" x2="482.0" y2="94" stroke="#ffffff" stroke-opacity=".07"/>
+  <text x="362.0" y="118" class="sans" font-size="14" fill="#E8EEF6">Qdrant</text>
+  <text x="362.0" y="141" class="sans" font-size="14" fill="#E8EEF6">Neo4j</text>
+  <text x="362.0" y="164" class="sans" font-size="14" fill="#E8EEF6">FalkorDB</text>
+  <text x="362.0" y="187" class="sans" font-size="14" fill="#E8EEF6">Redis</text>
+  <text x="362.0" y="210" class="sans" font-size="14" fill="#E8EEF6">PostgreSQL</text>
+  <text x="362.0" y="233" class="sans" font-size="14" fill="#E8EEF6">MongoDB</text>
+  <rect x="507.0" y="48" width="148" height="196" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".07"/>
+  <rect x="519.0" y="60" width="22" height="22" rx="4" fill="none" stroke="#DFFF4F" stroke-opacity=".7"/>
+  <text x="530.0" y="75.5" text-anchor="middle" class="mono" font-size="12" font-weight="700" fill="#DFFF4F">4</text>
+  <text x="551.0" y="75.5" class="mono" font-size="11" letter-spacing="1.2" fill="#8DA2BC">CLOUD &amp; OPS</text>
+  <line x1="519.0" y1="94" x2="643.0" y2="94" stroke="#ffffff" stroke-opacity=".07"/>
+  <text x="523.0" y="118" class="sans" font-size="14" fill="#E8EEF6">Azure</text>
+  <text x="523.0" y="141" class="sans" font-size="14" fill="#E8EEF6">GCP</text>
+  <text x="523.0" y="164" class="sans" font-size="14" fill="#E8EEF6">Databricks</text>
+  <text x="523.0" y="187" class="sans" font-size="14" fill="#E8EEF6">Kubernetes</text>
+  <text x="523.0" y="210" class="sans" font-size="14" fill="#E8EEF6">Docker</text>
+  <text x="523.0" y="233" class="sans" font-size="14" fill="#E8EEF6">Terraform</text>
+  <rect x="668.0" y="48" width="148" height="196" rx="10" fill="#ffffff" fill-opacity=".03" stroke="#ffffff" stroke-opacity=".07"/>
+  <rect x="680.0" y="60" width="22" height="22" rx="4" fill="none" stroke="#DFFF4F" stroke-opacity=".7"/>
+  <text x="691.0" y="75.5" text-anchor="middle" class="mono" font-size="12" font-weight="700" fill="#DFFF4F">5</text>
+  <text x="712.0" y="75.5" class="mono" font-size="11" letter-spacing="1.2" fill="#8DA2BC">DATA ENG</text>
+  <line x1="680.0" y1="94" x2="804.0" y2="94" stroke="#ffffff" stroke-opacity=".07"/>
+  <text x="684.0" y="118" class="sans" font-size="14" fill="#E8EEF6">Apache Spark</text>
+  <text x="684.0" y="141" class="sans" font-size="14" fill="#E8EEF6">Kafka</text>
+  <text x="684.0" y="164" class="sans" font-size="14" fill="#E8EEF6">Spark SQL</text>
+  <text x="684.0" y="187" class="sans" font-size="14" fill="#E8EEF6">ETL / ELT</text>
+</svg>

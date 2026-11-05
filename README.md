@@ -1,33 +1,20 @@
-<h1 align="center"> Hi, I'm Matsvei👋</h1>
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Matsvei Kavalenka — AI Engineer. RAG · GraphRAG · LLM evaluation." />
+</p>
 
 <p align="center">
-  <strong>I`m a Software Engineer and it`s my GitHub profile with my projects
-  </strong>
+  <img src="./assets/rally.svg" width="100%" alt="Retrieval, end to end: ingest → index → retrieve → rerank → generate → evaluate" />
 </p>
 
-
-<h2> Languages:</h2>
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+<p align="center">
+  <img src="./assets/loadout.svg" width="100%" alt="Stack: Python, Java · RAG, GraphRAG, LangChain, Langfuse, TensorFlow · Qdrant, Neo4j, FalkorDB, Redis, PostgreSQL, MongoDB · Azure, GCP, Databricks, Kubernetes, Docker, Terraform · Spark, Kafka" />
 </p>
 
-<h2> Databases:</h2>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/matsvei-kavalenka/"><img src="https://img.shields.io/badge/LinkedIn-matsvei--kavalenka-16345C?style=flat-square&logo=linkedin&logoColor=DFFF4F&labelColor=0E2442" alt="LinkedIn" /></a>
+  <a href="mailto:matsvei.kavalenka@gmail.com"><img src="https://img.shields.io/badge/Email-matsvei.kavalenka%40gmail.com-16345C?style=flat-square&logo=gmail&logoColor=DFFF4F&labelColor=0E2442" alt="Email" /></a>
 </p>
 
-<h2> ⌨️IDEs:</h2>
-<p>
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /> 
-</p>
-
-<h2>📫 Reach me on:</h2>
-<p>
-  <a target="_blank"href="https://www.linkedin.com/in/matsvei-kavalenka/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
